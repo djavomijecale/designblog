@@ -12,7 +12,10 @@
 
 
 @media(min-width:768px){
-    
+    header .navbar-nav a{font-size: 1.1rem;text-align: center;border-bottom: none;transition: 0.5s linear;border-right: 1px solid #767676;padding: 0 10px;}
+header .navbar-nav li:last-of-type a{border-bottom: none;border-right:1px solid #fff;}
+header .navbar-nav li .active a,header .navbar-nav li:hover a{background: #000;color: #fff !important;}
+
     
     
     
@@ -22,9 +25,8 @@
 
 @media(min-width:992px){
     
-    html{
-        font-size: 16px;
-    }
+   
+    .container{max-height: 947px}
     
     
 }
@@ -34,7 +36,7 @@
 
 
 @media(min-width:1200px){
-    
+    .container{max-height: 947px}
     
     
     
