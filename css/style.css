@@ -31,4 +31,7 @@ header .navbar-nav li .active a,header .navbar-nav li:hover a{background: #000;c
 text-decoration: none;transition: 0.5s linear;}
 .news .news-item .read-more:after{content: '';display: block;width: 32px;height: 32px;position:absolute;top: 0;left:100%;border: 16px solid transparent;border-left-color: #616161;}
 .news .news-item .read-more:hover{margin-left: 3px}
+.news-navigation a{text-decoration: none;color: #4d4d4d;font-size: 22px;font-family:'Arial-BoldMT'; }
+.news-navigation > span{color: #4d4d4d;font-size: 22px;padding: 0 15px;display: inline-block;}
+.news-navigation a:hover{color: #000;text-shadow:0 0 2px #4d4d4d;}
 
