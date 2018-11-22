@@ -27,6 +27,7 @@ header .navbar-nav li .active a,header .navbar-nav li:hover a{background: #000;c
     
    
     .container{max-height: 947px}
+    .left-content{border-right: 1px dotted #9a9a9a;}
     
     
 }
