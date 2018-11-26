@@ -59,4 +59,7 @@ form .search-form .form-control{border-radius: 0;background: #F7F7F7;}
 .single-news-content ul li:before{content: '';width: 13px;height: 13px;display: inline-block;background: url(assets/puzzle.png)no-repeat center center;background-size: contain;margin-right: 5px;}
 .single-news-content blockquote{position: relative;background: #efefef;font-family: 'Arial-ItalicMT';padding: 20px 20px 20px 50px;width: 90%;margin:0 auto 15px;color: #8B8A8A; }
 .single-news-content blockquote:before{content:'“';font-family: 'ArialMT';color: #FFFFFF;font-size: 120px;position: absolute;top:-35px;left:5px;}
-.single-news{padding: 0 0 30px;border: 1px dotted #9a9a9a;}
+.single-news{padding: 0 0 30px;border-bottom:1px dotted #9a9a9a;}
+.comments img{border: 3px solid #D6D6D6;}
+.comments .author-name{color: #515151;font-family: 'Arial-BoldMT';padding-bottom: 0;margin-bottom: 0;}
+.comments .about-author{border: 1px solid rgba(213,213,213,0.54)}
