@@ -63,3 +63,10 @@ form .search-form .form-control{border-radius: 0;background: #F7F7F7;}
 .comments img{border: 3px solid #D6D6D6;}
 .comments .author-name{color: #515151;font-family: 'Arial-BoldMT';padding-bottom: 0;margin-bottom: 0;}
 .comments .about-author{border: 1px solid rgba(213,213,213,0.54)}
+.add-comment{border: 1px solid rgba(213,213,213,0.54)}
+.add-comment .form-control{border-radius: 0px;background: white;}
+.add-comment textArea{resize: none;}
+.add-comment .btn{border-radius: 0px;}
+footer div ul .bold{font-family: 'Arial-BoldMT' !important;color: #000;}
+footer div ul li{font-family: 'ArialMT';font-size: 1.2rem;list-style: none;}
+.about-author-h{font-family: 'Arial-BoldMT' !important;color: #6D6D6D;font-size: 1.2rem;}
