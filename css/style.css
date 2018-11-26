@@ -42,8 +42,21 @@ form .search-form .form-control{border-radius: 0;background: #F7F7F7;}
 .recent-comments .comment-item .w75{  white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;}
-.recent-comments a{  white-space: nowrap;
+.recent-comments .comment-item .w-25{  white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;}
 .recent-comments p{border-top: 1px solid #ccc}
 .recent-comments p:last-of-type{border-bottom:  1px solid #ccc}
+.nav-footer{border-top: 1px dotted #000;padding-top: 22px;padding-bottom: 22px; }
+.nav-footer img{border: 3px solid #D6D6D6; }
+.single-news .single-news-content h1,
+.single-news .single-news-content h2,
+.single-news .single-news-content h3,
+.single-news .single-news-content h4,
+.single-news .single-news-content h5,
+.single-news .single-news-content h6{font-family: 'ArialMT';color:#252525;letter-spacing: 1px;}
+.single-news-content ul{list-style: none;}
+.single-news-content ul li:before{content: '';width: 13px;height: 13px;display: inline-block;background: url(assets/puzzle.png)no-repeat center center;background-size: contain;margin-right: 5px;}
+.single-news-content blockquote{position: relative;background: #efefef;font-family: 'Arial-ItalicMT';padding: 20px 20px 20px 50px;width: 90%;margin:0 auto 15px;color: #8B8A8A; }
+.single-news-content blockquote:before{content:'“';font-family: 'ArialMT';color: #FFFFFF;font-size: 120px;position: absolute;top:-35px;left:5px;}
+.single-news{padding: 0 0 30px;border: 1px dotted #9a9a9a;}
